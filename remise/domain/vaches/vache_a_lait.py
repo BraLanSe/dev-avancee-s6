@@ -8,7 +8,7 @@ class VacheALait(Vache):
 
     def __init__(self, petitNom, age, poids):
         super().__init__(petitNom, poids, age)
-        self.pans0.0
+        self.panse=0.0
         self.lait_disponible=0.0
         self.lait_total_produit=0.0
         self.lait_total_traite=0.0
