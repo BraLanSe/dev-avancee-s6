@@ -1,7 +1,7 @@
 # test_point_plan.py
 import pytest
 
-from point_plan.point_3d import Point3D
+from pointplan.point_3d import Point3D
 
 def test_should_init_azimut_to_none_when_no_args_given():
     # Arrange

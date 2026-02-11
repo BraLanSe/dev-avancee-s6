@@ -1,7 +1,7 @@
 # test_point_plan.py
 import pytest
 
-from point_plan.point_plan import PointPlan
+from pointplan.point_plan import PointPlan
 
 
 def test_should_init_abscisse_to_none_when_no_args_given():
